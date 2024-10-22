@@ -1,1 +1,2 @@
-# Feasty-Restaurant
+# feasty-restaurant
+A website for a restaurant
