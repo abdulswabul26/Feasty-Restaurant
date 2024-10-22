@@ -1,0 +1,13 @@
+:root{
+    /* Colors */
+    --colorb : #000000;
+    --colorbd : #252525;
+    --colorw : #ffffff;
+    --colorr : #E71D36;
+    --colorrd : #961221;
+    --colorgr : rgba(245, 242, 242, 0.884);
+    --colorwd : rgb(128, 128, 128);
+    /* Fonts */
+    --font-monts: montserrat;
+    --font-robo: roboto;
+   }

@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: all .3s ease;
+    font-family: montserrat;
+}
+body{
+    position: relative;
+}
+/* imports */
+@import 'animate.css';
+a{
+    text-decoration: none;
+}
+
+ol, ul {
+    list-style: none;
+}
+button{
+    border: none;
+    outline: none;
+}
