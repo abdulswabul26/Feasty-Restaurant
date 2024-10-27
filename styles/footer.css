@@ -28,36 +28,6 @@ footer .contact-info{
 footer .opening-times :nth-child(2){
     background-color: blue;
 }
-/* .quick-links{
-    opacity: 0;
-
-    animation: fade-in-tryout linear forwards;
-    animation-timeline: view();
-    animation-range: entry -200px;
-    transform-origin: left;
-    transform: translateX(-10vw);
-}
-
-.opening-times,.reservation-info{
-    opacity: .8;
-    scale: 0;
-
-    animation: fade-in linear forwards;
-    animation-timeline: view();
-    animation-range: entry -200px;
-}
-
-.contact-info{
-    opacity: 0;
-
-    animation: fade-in-tryout linear forwards;
-    animation-timeline: view();
-    animation-range: entry -500px;
-    transform-origin: left;
-    transform: translateX(10vw);
-}
- */
-
 
 
 
