@@ -28,7 +28,7 @@ footer .contact-info{
 footer .opening-times :nth-child(2){
     background-color: blue;
 }
-.quick-links{
+/* .quick-links{
     opacity: 0;
 
     animation: fade-in-tryout linear forwards;
@@ -56,7 +56,7 @@ footer .opening-times :nth-child(2){
     transform-origin: left;
     transform: translateX(10vw);
 }
-
+ */
 
 
 
