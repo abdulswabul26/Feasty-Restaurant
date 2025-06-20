@@ -7,6 +7,8 @@
 }
 body{
     position: relative;
+    overflow: hidden;
+    
 }
 /* imports */
 @import 'animate.css';
