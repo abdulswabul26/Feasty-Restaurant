@@ -7,7 +7,7 @@
 }
 body{
     position: relative;
-    overflow: hidden;
+    width: 100vh;
     
 }
 /* imports */
